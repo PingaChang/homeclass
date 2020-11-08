@@ -1,0 +1,7 @@
+
+
+ask_name() {
+	read -p "Your name: " name
+	echo Hello $name
+}
+
